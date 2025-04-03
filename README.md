@@ -1,27 +1,44 @@
-# Hola, soy Sergio! 👋
+# 🌟 ¡Hola, soy Sergio! 🌟
 
-Soy un desarrollador apasionado por la tecnología y la programación. Aquí hay un poco más sobre mí:
+Soy un desarrollador backend apasionado por crear soluciones eficientes y seguras. 🚀 Actualmente me enfoco en **SQL Server**, **Entity Framework Core**, y en el desarrollo de sistemas modulares.
 
-- 🔭 Actualmente estoy trabajando en...
-- 🌱 Actualmente estoy aprendiendo...
-- 👯 Estoy buscando colaborar en...
-- 🤔 Estoy buscando ayuda con...
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactarme: [tu correo electrónico]
-- ⚡ Dato curioso: ...
+---
 
-## Lenguajes y herramientas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+## 🛠️ **Habilidades**
+- **Lenguajes y tecnologías**: Laravel, Entity Framework Core, SQL Server
+- **Experiencia en seguridad**: Configuración de SSL, protocolos TCP/IP, gestión de vulnerabilidades
+- **Otras habilidades**: Diseño de bases de datos relacionales, desarrollo modular y escalable
 
-## Proyectos destacados
-- [Proyecto 1](https://github.com/Sergiovl25/Proyecto1): Descripción del proyecto.
-- [Proyecto 2](https://github.com/Sergiovl25/Proyecto2): Descripción del proyecto.
+---
 
-## Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/tu-perfil/)
+## 💡 **En qué estoy trabajando**
+🔧 Desarrollo de un sistema de gestión escolar  
+🔒 Aprendiendo mejores prácticas de seguridad en conexiones de bases de datos  
+📂 Diseñando y mejorando la estructura de mi portafolio en GitHub
+
+---
+
+## 🚀 **Proyectos destacados**
+- **Sistema de gestión escolar**: Un sistema modular para la administración de datos académicos y administrativos.  
+  📌 [Enlace al repositorio](#)
+
+- **[Proyecto 2: Un título breve y emocionante]**: Breve descripción del proyecto.  
+  📌 [Enlace al repositorio](#)
+
+---
+
+## 📈 **Metas a corto plazo**
+- Maestría en configuraciones TCP/IP y SSL para servidores
+- Finalizar el módulo de configuración académica para mi sistema escolar
+- Perfeccionar mi perfil de GitHub para hacerlo más atractivo y profesional
+
+---
+
+## 🌐 **Conecta conmigo**
+- 💼 [LinkedIn](#)
+- 🖥️ [Portafolio personal](#)
+- 🐦 [Twitter](#)
+
+---
+
+¡Gracias por visitar mi perfil! 🎉 Si tienes alguna idea o sugerencia, ¡no dudes en contactarme! 😄
