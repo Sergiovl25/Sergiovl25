@@ -92,11 +92,11 @@
 <hr>
 
 <h2>🌐 Conecta conmigo</h2>
-<div align="center">
+<ul>
   <li>💼 <a href="#">LinkedIn</a></li>
   <li>🖥️ <a href="#">Portafolio personal</a></li>
-  <li>🐦 <a href="#">Twitter</a></li></ul>
-</div>
+  <li>🐦 <a href="#">Twitter</a></li>
+</ul>
 
 <hr>
 
