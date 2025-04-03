@@ -1,87 +1,94 @@
-<div align="center">
-  <h1>🌟 ¡Hola, soy Sergio! 👋</h1>
-  <p><i>Un apasionado desarrollador <b>Full Stack</b> en constante aprendizaje</i></p>
-</div>
+<h1 align="center">🌟 ¡Hola, soy Sergio! 👋</h1>
+<p align="center">Soy un desarrollador <b>Full Stack</b> apasionado por aprender y crear soluciones <b>modernas</b>, <b>eficientes</b> y <b>seguras</b>. Aunque no soy un experto, disfruto explorando nuevas tecnologías y mejorando mis habilidades constantemente.</p>
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x100?text=Bienvenido+a+mi+GitHub" alt="Banner personalizado" width="100%">
-</div>
+<hr>
 
----
+<h2>🚀 Sobre mí</h2>
+<ul>
+  <li>🧩 Enfocado en el desarrollo de sistemas modulares y escalables.</li>
+  <li>🔒 Interesado en aprender más sobre <b>seguridad</b> y optimización de sistemas.</li>
+  <li>🌟 Aprendiendo y experimentando con herramientas como <b>Astro</b> para desarrollar sitios dinámicos.</li>
+</ul>
 
-<h2 align="center">🚀 Sobre mí</h2>
-<p align="center">Me especializo en crear soluciones <b>modernas</b>, <b>seguras</b> y <b>eficientes</b>, combinando lo mejor del <b>frontend</b> y <b>backend</b>. Aunque no soy un experto, disfruto cada día explorando nuevas tecnologías y mejorando mis habilidades.</p>
+<hr>
 
----
-
-<h2>🛠️ Tecnologías en mi toolbox</h2>
-<table align="center">
+<h2>🛠️ Habilidades técnicas</h2>
+<p><i>Estas son las tecnologías con las que estoy trabajando y aprendiendo:</i></p>
+<table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://via.placeholder.com/64?text=HTML" alt="HTML Icon">
-      <br><b>HTML</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://via.placeholder.com/64?text=CSS" alt="CSS Icon">
-      <br><b>CSS</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://via.placeholder.com/64?text=JavaScript" alt="JavaScript Icon">
-      <br><b>JavaScript</b>
-    </td>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Seguridad</th>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://via.placeholder.com/64?text=Tailwind" alt="Tailwind Icon">
-      <br><b>Tailwind</b>
+    <td>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Bootstrap, Tailwind, Astro (en aprendizaje)</li>
+      </ul>
     </td>
-    <td align="center" width="200">
-      <img src="https://via.placeholder.com/64?text=Astro" alt="Astro Icon">
-      <br><b>Astro (en aprendizaje)</b>
+    <td>
+      <ul>
+        <li>C#, Entity Framework Core</li>
+        <li>PHP, Laravel</li>
+        <li>SQL Server, MySQL, MariaDB</li>
+      </ul>
     </td>
-    <td align="center" width="200">
-      <img src="https://via.placeholder.com/64?text=Bootstrap" alt="Bootstrap Icon">
-      <br><b>Bootstrap</b>
+    <td>
+      <ul>
+        <li>Configuración básica de SSL</li>
+        <li>Protocolos TCP/IP</li>
+        <li>Gestión inicial de vulnerabilidades</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+<hr>
 
-<h2>💡 Proyectos actuales</h2>
+<h2>💡 Proyectos en desarrollo</h2>
 <ul>
-  <li>🔧 <b>Sistema de gestión escolar modular:</b> Desarrollo de un sistema avanzado para administración académica.</li>
-  <li>💰 <b>Sistema de control de gastos:</b> Proyecto en el que aplico <b>Entity Framework Core</b> y <b>SQL Server</b> para optimizar la gestión de presupuesto.</li>
-  <li>🌐 <b>Exploración con Astro:</b> Descubriendo su potencial para sitios web rápidos y modernos.</li>
+  <li><b>🔧 Sistema de gestión escolar modular:</b> Explorando mejores prácticas para desarrollar un sistema administrativo eficiente.</li>
+  <li><b>💰 Sistema de control de gastos:</b> Proyecto en el que aplico <b>Entity Framework Core</b> y <b>SQL Server</b> mientras aprendo sobre integración backend.</li>
+  <li><b>🌐 Exploración de nuevas tecnologías:</b> Descubriendo cómo <b>Astro</b> puede ayudarme a construir sitios rápidos y modernos.</li>
+  <li><b>📂 Mejoras en mi portafolio GitHub:</b> Aprendiendo a mostrar mis proyectos de manera profesional y atractiva.</li>
 </ul>
 
----
+<hr>
 
 <h2>✨ Proyectos destacados</h2>
 <ul>
-  <li>📌 <b>Sistema de gestión escolar:</b> Solución modular para instituciones educativas. <a href="#">Enlace al repositorio</a></li>
-  <li>📌 <b>Sistema de control de gastos:</b> Herramienta para la administración de presupuestos. <a href="#">Enlace al repositorio</a></li>
+  <li><b>Sistema de gestión escolar:</b> Proyecto en evolución que me ha permitido mejorar mis habilidades en desarrollo modular. 📌 <a href="#">Enlace al repositorio</a></li>
+  <li><b>Sistema de control de gastos:</b> Proyecto donde aplico lo aprendido en integración backend. 📌 <a href="#">Enlace al repositorio</a></li>
 </ul>
 
----
+<hr>
+
+<h2>🔥 Contribuciones recientes</h2>
+<ul>
+  <li>🛠️ <a href="#">Proyecto de código abierto X</a>: Experimenté con gestión de errores en el backend utilizando <b>C#</b>.</li>
+  <li>🌐 <a href="#">Repositorio comunitario Y</a>: Practiqué diseño responsivo con <b>Tailwind CSS</b>.</li>
+  <li>📖 <a href="#">Tutorial Z</a>: Documenté configuraciones básicas de <b>Entity Framework Core</b> y <b>SQL Server</b>.</li>
+</ul>
+
+<hr>
 
 <h2>🎯 Metas actuales</h2>
 <ul>
-  <li>🔧 Consolidar mis conocimientos en integración frontend-backend.</li>
-  <li>✨ Mejorar mi perfil en GitHub para reflejar mi progreso.</li>
+  <li>Consolidar mis conocimientos en integración completa de <b>frontend</b> y <b>backend</b>.</li>
+  <li>Finalizar el módulo de configuración académica del sistema escolar.</li>
+  <li>Mejorar mi perfil en GitHub para reflejar mi progreso profesional.</li>
 </ul>
 
----
+<hr>
 
-<div align="center">
-  <h2>🌐 ¡Conecta conmigo!</h2>
-  <a href="#"><img src="https://via.placeholder.com/40?text=LinkedIn" alt="LinkedIn Icon"></a>
-  <a href="#"><img src="https://via.placeholder.com/40?text=Portfolio" alt="Portfolio Icon"></a>
-  <a href="#"><img src="https://via.placeholder.com/40?text=Twitter" alt="Twitter Icon"></a>
-</div>
+<h2>🌐 Conecta conmigo</h2>
+<ul>
+  <li>💼 <a href="#">LinkedIn</a></li>
+  <li>🖥️ <a href="#">Portafolio personal</a></li>
+  <li>🐦 <a href="#">Twitter</a></li>
+</ul>
 
----
+<hr>
 
-<div align="center">
-  <p><i>✨ Gracias por visitar mi perfil. ¡Estoy emocionado por colaborar y aprender juntos! 😄</i></p>
-</div>
+<p align="center">✨ Aunque estoy aprendiendo, cada día me esfuerzo para crecer profesionalmente y aportar soluciones de valor. Si tienes ideas o proyectos, ¡estaré encantado de colaborar y aprender juntos! 😄</p>
