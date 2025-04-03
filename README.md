@@ -1,19 +1,27 @@
 # 🌟 ¡Hola, soy Sergio! 🌟
 
-Soy un desarrollador backend apasionado por crear soluciones eficientes y seguras. 🚀 Actualmente me enfoco en **SQL Server**, **Entity Framework Core**, y en el desarrollo de sistemas modulares.
+Soy un desarrollador **Full Stack** apasionado por crear soluciones modernas y seguras. 🚀 Me encanta combinar lo mejor del **frontend** y **backend** para desarrollar aplicaciones eficientes y atractivas.
 
 ---
 
 ## 🛠️ **Habilidades**
-- **Lenguajes y tecnologías**: Laravel, Entity Framework Core, SQL Server
-- **Experiencia en seguridad**: Configuración de SSL, protocolos TCP/IP, gestión de vulnerabilidades
-- **Otras habilidades**: Diseño de bases de datos relacionales, desarrollo modular y escalable
+### **Frontend**
+- HTML, CSS, JavaScript
+- Frameworks y librerías: Bootstrap, Tailwind, Astro (en aprendizaje)
+
+### **Backend**
+- C#, Entity Framework Core
+- PHP, Laravel
+- Bases de datos: SQL Server, MySQL, MariaDB
+
+### **Seguridad**
+- Configuración de SSL, protocolos TCP/IP, y gestión de vulnerabilidades
 
 ---
 
 ## 💡 **En qué estoy trabajando**
-🔧 Desarrollo de un sistema de gestión escolar  
-🔒 Aprendiendo mejores prácticas de seguridad en conexiones de bases de datos  
+🔧 Desarrollo de un sistema de gestión escolar modular  
+🎨 Explorando **Astro** para construir sitios web rápidos y dinámicos  
 📂 Diseñando y mejorando la estructura de mi portafolio en GitHub
 
 ---
@@ -27,10 +35,17 @@ Soy un desarrollador backend apasionado por crear soluciones eficientes y segura
 
 ---
 
+## ✨ **Contribuciones recientes**
+- **[Proyecto de código abierto X](#)**: Mejoré la gestión de errores en el backend utilizando C#.
+- **[Repositorio comunitario Y](#)**: Implementé un diseño responsivo usando Tailwind CSS.
+- **[Tutorial Z](#)**: Creé documentación detallada sobre la configuración de Entity Framework Core con SQL Server.
+
+---
+
 ## 📈 **Metas a corto plazo**
-- Maestría en configuraciones TCP/IP y SSL para servidores
-- Finalizar el módulo de configuración académica para mi sistema escolar
-- Perfeccionar mi perfil de GitHub para hacerlo más atractivo y profesional
+- Dominar la integración de **frontend** y **backend** para sistemas más robustos  
+- Finalizar el módulo de configuración académica para mi sistema escolar  
+- Perfeccionar mi perfil de GitHub para hacerlo más atractivo y profesional  
 
 ---
 
