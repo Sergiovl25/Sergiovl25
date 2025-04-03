@@ -20,7 +20,8 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones modernas y s
 ---
 
 ## 💡 **En qué estoy trabajando**
-🔧 Desarrollo de un sistema de gestión escolar modular  
+🔧 **Sistema de gestión escolar modular**: Desarrollo de un sistema modular para la administración de datos académicos y administrativos.  
+💰 **Sistema de control de gastos**: Implementación de un sistema para gestionar gastos de manera eficiente, utilizando **Entity Framework Core** y **SQL Server**.  
 🎨 Explorando **Astro** para construir sitios web rápidos y dinámicos  
 📂 Diseñando y mejorando la estructura de mi portafolio en GitHub
 
