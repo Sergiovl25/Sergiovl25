@@ -31,7 +31,7 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones modernas y s
 - **Sistema de gestión escolar**: Un sistema modular para la administración de datos académicos y administrativos.  
   📌 [Enlace al repositorio](#)
 
-- **[Proyecto 2: Un título breve y emocionante]**: Breve descripción del proyecto.  
+- ** Sistema de control de gastos**: un sistema para gestionar gastos de manera eficiente.  
   📌 [Enlace al repositorio](#)
 
 ---
