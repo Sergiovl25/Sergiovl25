@@ -1,24 +1,26 @@
 <h1 align="center">🌟 ¡Hola, soy Sergio! 👋</h1>
-<p align="center">Soy un desarrollador <b>Full Stack</b> apasionado por aprender y crear soluciones <b>modernas</b>, <b>eficientes</b> y <b>seguras</b>. Aunque no soy un experto, disfruto explorando nuevas tecnologías y mejorando mis habilidades constantemente.</p>
+<p align="center">Soy un desarrollador <b>Full Stack</b> apasionado por aprender y crear soluciones <b>modernas</b>, <b>eficientes</b> y <b>seguras</b>. Además, cuento con experiencia en <b>soporte técnico</b>, <b>mantenimiento preventivo y correctivo</b>, y más. Disfruto explorando nuevas tecnologías y mejorando mis habilidades constantemente.</p>
 
 <hr>
 
 <h2>🚀 Sobre mí</h2>
 <ul>
   <li>🧩 Enfocado en el desarrollo de sistemas modulares y escalables.</li>
-  <li>🔒 Interesado en aprender más sobre <b>seguridad</b> y optimización de sistemas.</li>
+  <li>🔒 Con interés en aprender más sobre <b>seguridad</b> y optimización de sistemas.</li>
   <li>🌟 Aprendiendo y experimentando con herramientas como <b>Astro</b> para desarrollar sitios dinámicos.</li>
+  <li>🛠️ Experiencia en soporte TI, incluyendo ensamblaje de equipos, cableado estructurado, instalación de software y reparación de hardware.</li>
 </ul>
 
 <hr>
 
 <h2>🛠️ Habilidades técnicas</h2>
-<p><i>Estas son las tecnologías con las que estoy trabajando y aprendiendo:</i></p>
-<table>
+<p><i>Estas son las áreas en las que tengo experiencia y sigo aprendiendo:</i></p>
+<table align="center">
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
     <th>Seguridad</th>
+    <th>Soporte técnico</th>
   </tr>
   <tr>
     <td>
@@ -41,6 +43,13 @@
         <li>Gestión inicial de vulnerabilidades</li>
       </ul>
     </td>
+    <td>
+      <ul>
+        <li>Mantenimiento preventivo y correctivo</li>
+        <li>Instalación de software y reparación de drivers</li>
+        <li>Ensamble de equipos y cableado estructurado</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -58,8 +67,8 @@
 
 <h2>✨ Proyectos destacados</h2>
 <ul>
-  <li><b>Sistema de gestión escolar:</b> Proyecto en evolución que me ha permitido mejorar mis habilidades en desarrollo modular. 📌 <a href="#">Enlace al repositorio</a></li>
-  <li><b>Sistema de control de gastos:</b> Proyecto donde aplico lo aprendido en integración backend. 📌 <a href="#">Enlace al repositorio</a></li>
+  <li>📌 <b>Sistema de gestión escolar:</b> Proyecto en evolución que me ha permitido mejorar mis habilidades en desarrollo modular. <a href="#">Enlace al repositorio</a></li>
+  <li>📌 <b>Sistema de control de gastos:</b> Proyecto donde aplico lo aprendido en integración backend. <a href="#">Enlace al repositorio</a></li>
 </ul>
 
 <hr>
@@ -77,18 +86,18 @@
 <ul>
   <li>Consolidar mis conocimientos en integración completa de <b>frontend</b> y <b>backend</b>.</li>
   <li>Finalizar el módulo de configuración académica del sistema escolar.</li>
-  <li>Mejorar mi perfil en GitHub para reflejar mi progreso profesional.</li>
+  <li>Reflejar mi progreso profesional y habilidades en mi portafolio GitHub.</li>
 </ul>
 
 <hr>
 
 <h2>🌐 Conecta conmigo</h2>
-<ul>
-  <li>💼 <a href="#">LinkedIn</a></li>
-  <li>🖥️ <a href="#">Portafolio personal</a></li>
-  <li>🐦 <a href="#">Twitter</a></li>
-</ul>
+<div align="center">
+  <a href="#"><img src="https://via.placeholder.com/40?text=LinkedIn" alt="LinkedIn"></a>
+  <a href="#"><img src="https://via.placeholder.com/40?text=Portfolio" alt="Portfolio"></a>
+  <a href="#"><img src="https://via.placeholder.com/40?text=Twitter" alt="Twitter"></a>
+</div>
 
 <hr>
 
-<p align="center">✨ Aunque estoy aprendiendo, cada día me esfuerzo para crecer profesionalmente y aportar soluciones de valor. Si tienes ideas o proyectos, ¡estaré encantado de colaborar y aprender juntos! 😄</p>
+<p align="center"><i>✨ Aunque estoy aprendiendo, cada día me esfuerzo para crecer profesionalmente y aportar soluciones de valor. ¡Estoy emocionado por colaborar y aprender juntos! 😄</i></p>
