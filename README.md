@@ -93,9 +93,9 @@
 
 <h2>🌐 Conecta conmigo</h2>
 <div align="center">
-  <a href="#"><img src="https://via.placeholder.com/40?text=LinkedIn" alt="LinkedIn"></a>
-  <a href="#"><img src="https://via.placeholder.com/40?text=Portfolio" alt="Portfolio"></a>
-  <a href="#"><img src="https://via.placeholder.com/40?text=Twitter" alt="Twitter"></a>
+  <li>💼 <a href="#">LinkedIn</a></li>
+  <li>🖥️ <a href="#">Portafolio personal</a></li>
+  <li>🐦 <a href="#">Twitter</a></li></ul>
 </div>
 
 <hr>
