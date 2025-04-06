@@ -94,7 +94,7 @@
 <h2>🌐 Conecta conmigo</h2>
 <ul>
   <li>💼 <a href="#">LinkedIn</a></li>
-  <li>🖥️ <a href="#">Portafolio personal</a></li>
+  <li>🖥️ <a href="https://cv2025.netlify.app/">Portafolio personal</a></li>
   <li>🐦 <a href="#">Twitter</a></li>
 </ul>
 
