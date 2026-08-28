@@ -82,67 +82,35 @@ Además, cuento con experiencia en **soporte TI, hardware, redes, mantenimiento 
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Stack & Herramientas
 
 <div align="center">
 
-### 🎨 Frontend
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"
-  alt="Frontend Skills"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,postgres,git,github,vscode,postman" alt="Tech Stack" />
 
 <br><br>
 
+**🎨 Frontend**  
 `HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Tailwind CSS`
 
-<br><br>
-
-### ⚙️ Backend
-
-<img
-  src="https://skillicons.dev/icons?i=php,laravel"
-  alt="Backend Skills"
-/>
-
-<br><br>
-
+**⚙️ Backend**  
 `PHP` · `Laravel` · `Composer`
 
-<br><br>
-
-### 🗄️ Bases de Datos
-
-<img
-  src="https://skillicons.dev/icons?i=mysql,postgres"
-  alt="Database Skills"
-/>
-
-<br><br>
-
+**🗄️ Bases de Datos**  
 `MySQL` · `PostgreSQL` · `MariaDB`
+
+**🛠️ Herramientas**  
+`Git` · `GitHub` · `VS Code` · `Postman`
 
 </div>
 
 ---
 
-# 🧰 Herramientas
+# 🤖 IA aplicada al desarrollo
+
+Integro herramientas de **Inteligencia Artificial** dentro de mi flujo de desarrollo como apoyo para mejorar la productividad y acelerar determinadas tareas, manteniendo el control sobre las decisiones técnicas y la arquitectura de los proyectos.
 
 <div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"
-  alt="Development Tools"
-/>
-
-<br><br>
-
-`Git` · `GitHub` · `VS Code` · `Postman` · `npm`
-
-<br><br>
-
-### 🤖 AI Assisted Development
 
 <img
   src="https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white"
@@ -156,11 +124,7 @@ Además, cuento con experiencia en **soporte TI, hardware, redes, mantenimiento 
 
 </div>
 
----
-
-# 🤖 IA aplicada al desarrollo
-
-Integro herramientas de **Inteligencia Artificial** dentro de mi flujo de desarrollo como apoyo para mejorar la productividad y acelerar determinadas tareas, manteniendo el control sobre las decisiones técnicas y la arquitectura de los proyectos.
+<br>
 
 ### ⚡ Uso de IA en mi workflow
 
