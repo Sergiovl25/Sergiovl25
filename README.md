@@ -2,12 +2,18 @@
 
 # 👋 Hola, soy Sergio
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Desarrollo+de+aplicaciones+web;Frontend+%2B+Backend+%2B+Bases+de+Datos" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Desarrollo+de+aplicaciones+web;Frontend+%2B+Backend+%2B+Bases+de+Datos;IA+como+herramienta+de+desarrollo"
+  alt="Typing SVG"
+/>
 
 <br>
 
 Desarrollador **Full Stack** enfocado en crear aplicaciones web  
 **modernas, escalables y mantenibles.**
+
+Integro herramientas de **Inteligencia Artificial** en mi flujo de trabajo  
+para mejorar la productividad, el análisis y la calidad del desarrollo.
 
 <br>
 
@@ -53,6 +59,12 @@ const sergio = {
     "MariaDB"
   ],
 
+  workflow: [
+    "Git & GitHub",
+    "Postman",
+    "AI Assisted Development"
+  ],
+
   focus: [
     "Arquitectura modular",
     "Código mantenible",
@@ -62,7 +74,11 @@ const sergio = {
 };
 ```
 
-Además del desarrollo de software, cuento con experiencia en **soporte TI, hardware, redes, mantenimiento y configuración de equipos**.
+Me interesa desarrollar soluciones completas, desde la estructura y lógica del **backend** hasta la implementación e integración del **frontend** y las **bases de datos**.
+
+Utilizo herramientas de **Inteligencia Artificial como complemento al desarrollo**, principalmente para análisis, debugging, documentación, revisión de código, exploración de soluciones y optimización del flujo de trabajo.
+
+Además, cuento con experiencia en **soporte TI, hardware, redes, mantenimiento y configuración de equipos**.
 
 ---
 
@@ -72,7 +88,10 @@ Además del desarrollo de software, cuento con experiencia en **soporte TI, hard
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend Skills" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"
+  alt="Frontend Skills"
+/>
 
 <br><br>
 
@@ -82,7 +101,10 @@ Además del desarrollo de software, cuento con experiencia en **soporte TI, hard
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
+<img
+  src="https://skillicons.dev/icons?i=php,laravel"
+  alt="Backend Skills"
+/>
 
 <br><br>
 
@@ -92,7 +114,10 @@ Además del desarrollo de software, cuento con experiencia en **soporte TI, hard
 
 ### 🗄️ Bases de Datos
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Skills" />
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres"
+  alt="Database Skills"
+/>
 
 <br><br>
 
@@ -106,11 +131,51 @@ Además del desarrollo de software, cuento con experiencia en **soporte TI, hard
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"
+  alt="Development Tools"
+/>
 
 <br><br>
 
 `Git` · `GitHub` · `VS Code` · `Postman` · `npm`
+
+<br><br>
+
+### 🤖 AI Assisted Development
+
+<img
+  src="https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white"
+  alt="AI Assisted Development"
+/>
+
+<img
+  src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"
+  alt="Prompt Engineering"
+/>
+
+</div>
+
+---
+
+# 🤖 IA aplicada al desarrollo
+
+Integro herramientas de **Inteligencia Artificial** dentro de mi flujo de desarrollo como apoyo para mejorar la productividad y acelerar determinadas tareas, manteniendo el control sobre las decisiones técnicas y la arquitectura de los proyectos.
+
+### ⚡ Uso de IA en mi workflow
+
+- 🧠 Análisis y resolución de problemas
+- 🐛 Debugging y detección de errores
+- 🔍 Revisión y mejora de código
+- 📖 Generación y mejora de documentación
+- 🏗️ Apoyo en diseño y arquitectura
+- 🧪 Generación de casos de prueba
+- 💡 Exploración de soluciones y tecnologías
+- ⚡ Automatización de tareas repetitivas
+
+<div align="center">
+
+**IA como herramienta de apoyo, no como sustituto del criterio técnico.**
 
 </div>
 
@@ -142,7 +207,10 @@ Sistema web orientado a la administración y gestión de información académica
 <br>
 
 <a href="https://github.com/Sergiovl25">
-  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+  <img
+    src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositorio"
+  >
 </a>
 
 </td>
@@ -168,7 +236,10 @@ Aplicación web orientada al registro y administración de finanzas personales.
 <br>
 
 <a href="https://github.com/Sergiovl25">
-  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+  <img
+    src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositorio"
+  >
 </a>
 
 </td>
@@ -182,7 +253,10 @@ Aplicación web orientada al registro y administración de finanzas personales.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sergiovl25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=Sergiovl25&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -197,6 +271,7 @@ Aplicación web orientada al registro y administración de finanzas personales.
 | 🎨 **Frontend** | Interfaces modernas y responsivas |
 | ⚙️ **Backend** | Desarrollo con PHP y Laravel |
 | 🗄️ **Bases de Datos** | MySQL, PostgreSQL y MariaDB |
+| 🤖 **Inteligencia Artificial** | IA aplicada al flujo de desarrollo |
 | 🏗️ **Arquitectura** | Sistemas modulares y mantenibles |
 | 🔐 **Seguridad** | Buenas prácticas en aplicaciones web |
 | ⚡ **Performance** | Optimización de aplicaciones |
@@ -211,12 +286,14 @@ Aplicación web orientada al registro y administración de finanzas personales.
 ✓ Construir aplicaciones Full Stack
 ✓ Mejorar la integración Frontend ↔ Backend
 ✓ Diseñar sistemas mantenibles
+✓ Integrar IA de forma efectiva al desarrollo
 
 → Profundizar en Laravel
 → Mejorar seguridad de aplicaciones
 → Optimizar rendimiento
 → Desarrollar proyectos de mayor escala
 → Aplicar mejores prácticas de arquitectura
+→ Mejorar automatización y productividad con IA
 ```
 
 ---
@@ -232,6 +309,7 @@ Actualmente continúo fortaleciendo conocimientos relacionados con:
 - 🧪 Testing y calidad de software
 - 🚀 Despliegue de aplicaciones
 - 🔧 Buenas prácticas de desarrollo
+- 🤖 Inteligencia Artificial aplicada al desarrollo
 
 ---
 
@@ -244,20 +322,33 @@ Actualmente continúo fortaleciendo conocimientos relacionados con:
 <br>
 
 <a href="https://cv2025.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  >
 </a>
 
 <a href="https://github.com/Sergiovl25">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  >
 </a>
 
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
 </a>
 
 <br><br>
 
-### 💻 Construyendo soluciones y mejorando constantemente.
+### 💻 Construyendo soluciones, aprendiendo y mejorando constantemente.
+
+**Full Stack Development · Web · Databases · AI Assisted Development**
+
+<br>
 
 ⭐ **Gracias por visitar mi perfil**
 
