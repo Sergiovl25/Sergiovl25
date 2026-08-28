@@ -2,13 +2,24 @@
 
 # 👋 Hola, soy Sergio
 
-### Full Stack Developer | .NET · C# · JavaScript · SQL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Construyendo+soluciones+web+modernas;Frontend+%2B+Backend+%2B+Bases+de+Datos" alt="Typing SVG" />
 
-Desarrollo aplicaciones web enfocadas en **arquitecturas mantenibles, integración frontend-backend y soluciones escalables**.
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://cv2025.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sergiovl25)
+Desarrollador Full Stack enfocado en crear aplicaciones web
+**modernas, escalables y mantenibles.**
+
+<br>
+
+<a href="https://cv2025.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://github.com/Sergiovl25">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -16,187 +27,253 @@ Desarrollo aplicaciones web enfocadas en **arquitecturas mantenibles, integraci�
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador **Full Stack** con enfoque en el desarrollo de aplicaciones web, diseño de APIs, bases de datos y arquitectura de software.
+```javascript
+const sergio = {
+  role: "Full Stack Developer",
 
-Actualmente trabajo principalmente con **C#, .NET y SQL**, complementando el backend con tecnologías modernas de frontend.
+  frontend: [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Astro"
+  ],
 
-Me interesa construir sistemas que sean:
+  backend: [
+    "PHP",
+    "Laravel",
+    "REST APIs",
+    "Composer"
+  ],
 
-* 🧩 Modulares
-* 📈 Escalables
-* 🔒 Seguros
-* 🧹 Mantenibles
-* ⚡ Eficientes
+  databases: [
+    "MySQL",
+    "PostgreSQL",
+    "MariaDB"
+  ],
 
-También cuento con experiencia en **soporte TI, hardware, redes y mantenimiento de equipos**, lo que complementa mi perfil de desarrollo con conocimientos de infraestructura.
-
----
-
-## 🛠️ Tecnologías
-
-### Backend
-
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
-</p>
-
-### Bases de datos
-
-<p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</p>
-
-### Herramientas
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## 🧠 Áreas de interés
-
-```text
-Backend Development
-├── REST APIs
-├── Arquitectura modular
-├── Entity Framework Core
-├── Autenticación y autorización
-├── Manejo de errores
-└── Validación de datos
-
-Frontend Development
-├── Interfaces responsivas
-├── Integración con APIs
-├── JavaScript
-├── Tailwind CSS
-└── Astro
-
-Data
-├── SQL Server
-├── MySQL
-├── Diseño de bases de datos
-└── Optimización de consultas
-
-IT & Infrastructure
-├── Hardware
-├── Networking
-├── Soporte técnico
-└── Mantenimiento de equipos
+  focus: [
+    "Arquitectura modular",
+    "Código mantenible",
+    "Integración Frontend ↔ Backend",
+    "Aplicaciones escalables"
+  ]
+};
 ```
 
----
-
-## 🚀 Proyectos
-
-### 🎓 Sistema de Gestión Escolar
-
-Sistema administrativo orientado a la gestión de instituciones educativas.
-
-**Características principales:**
-
-* Arquitectura modular
-* Gestión académica
-* Administración de usuarios
-* Persistencia de datos
-* Integración frontend-backend
-* Diseño orientado a crecimiento futuro
-
-**Tecnologías**
-
-`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Tailwind CSS`
-
-[Ver proyectos →](https://github.com/Sergiovl25)
+Además del desarrollo de software, cuento con experiencia en **soporte TI, hardware, redes, mantenimiento y configuración de equipos**.
 
 ---
 
-### 💰 Sistema de Control de Gastos
-
-Aplicación orientada al control y administración de finanzas personales.
-
-**Características principales:**
-
-* Registro de ingresos y gastos
-* Clasificación por categorías
-* Persistencia de información
-* Manejo de operaciones CRUD
-* Arquitectura organizada por responsabilidades
-
-**Tecnologías**
-
-`C#` `.NET` `Entity Framework Core` `SQL`
-
-[Ver proyectos →](https://github.com/Sergiovl25)
-
----
-
-## 📚 Actualmente
-
-Actualmente continúo profundizando en:
-
-* ⚛️ Desarrollo frontend moderno
-* 🔌 Diseño e integración de APIs REST
-* 🏗️ Arquitectura de aplicaciones
-* 🔐 Seguridad en aplicaciones web
-* ⚡ Optimización y rendimiento
-* 🧪 Testing y calidad de software
-* 🚀 Despliegue de aplicaciones
-
----
-
-## 📊 GitHub
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sergiovl25&show_icons=true&theme=github_dark&hide_border=true"/>
+### 🎨 Frontend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiovl25&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,astro" />
+
+<br>
+
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Tailwind CSS` · `Astro`
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel" />
+
+<br>
+
+`PHP` · `Laravel` · `REST APIs` · `Composer`
+
+<br><br>
+
+### 🗄️ Bases de Datos
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+<br>
+
+`MySQL` · `PostgreSQL` · `MariaDB`
 
 </div>
 
 ---
 
-## 🎯 Enfoque profesional
-
-Mi objetivo es continuar desarrollando experiencia en la construcción de aplicaciones completas, desde el diseño de la base de datos y el desarrollo del backend hasta la integración y desarrollo del frontend.
-
-Busco aplicar buenas prácticas de desarrollo que permitan crear software **mantenible, escalable y preparado para evolucionar**.
-
----
+# 🧰 Herramientas
 
 <div align="center">
 
-## 🤝 Contacto
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
-¿Tienes un proyecto, propuesta o quieres colaborar?
+<br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://cv2025.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sergiovl25)
+`Git` · `GitHub` · `VS Code` · `Postman` · `npm`
+
+</div>
+
+---
+
+# 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Sistema de Gestión Escolar
+
+Sistema web para la administración y gestión de información académica.
+
+**Características**
+
+* 🧩 Arquitectura modular
+* 🔌 Integración mediante REST APIs
+* 👥 Gestión de usuarios
+* 🎓 Gestión académica
+* 🗄️ Persistencia de información
+
+**Stack**
+
+`PHP` `Laravel` `JavaScript` `SQL`
 
 <br>
 
-**Construyendo, aprendiendo y mejorando una línea de código a la vez. 🚀**
+<a href="https://github.com/Sergiovl25">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 Sistema de Control de Gastos
+
+Aplicación web orientada al registro y administración de finanzas personales.
+
+**Características**
+
+* 💵 Registro de movimientos
+* 📂 Clasificación por categorías
+* 🔄 Operaciones CRUD
+* 📊 Organización de información
+* 🗄️ Persistencia de datos
+
+**Stack**
+
+`PHP` `Laravel` `MySQL` `JavaScript`
+
+<br>
+
+<a href="https://github.com/Sergiovl25">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiovl25&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiovl25&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sergiovl25&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiovl25&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🧠 Actualmente
+
+<div align="center">
+
+|         Área         | Enfoque                                       |
+| :------------------: | :-------------------------------------------- |
+|    🎨 **Frontend**   | Interfaces modernas y responsivas             |
+|    ⚙️ **Backend**    | Laravel y diseño de REST APIs                 |
+|   🗄️ **Databases**  | MySQL, PostgreSQL y MariaDB                   |
+| 🏗️ **Arquitectura** | Sistemas modulares y mantenibles              |
+|   🔐 **Seguridad**   | Buenas prácticas y protección de aplicaciones |
+|   ⚡ **Performance**  | Optimización de aplicaciones web              |
+
+</div>
+
+---
+
+# 🎯 Objetivos
+
+```text
+✓ Construir aplicaciones Full Stack
+✓ Diseñar APIs REST mantenibles
+✓ Mejorar arquitectura de software
+
+→ Profundizar en Laravel
+→ Mejorar seguridad de aplicaciones
+→ Optimizar rendimiento
+→ Desarrollar proyectos de mayor escala
+```
+
+---
+
+# 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sergiovl25/Sergiovl25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🤝 Conectemos
+
+<div align="center">
+
+### ¿Tienes una idea, proyecto o quieres colaborar?
+
+<br>
+
+<a href="https://cv2025.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://github.com/Sergiovl25">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+### 💻 Construyendo soluciones, aprendiendo y mejorando constantemente.
+
+⭐ **Gracias por visitar mi perfil**
 
 </div>
