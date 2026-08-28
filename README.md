@@ -2,23 +2,25 @@
 
 # 👋 Hola, soy Sergio
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Construyendo+soluciones+web+modernas;Frontend+%2B+Backend+%2B+Bases+de+Datos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Desarrollo+de+aplicaciones+web;Frontend+%2B+Backend+%2B+Bases+de+Datos" alt="Typing SVG" />
 
 <br>
 
-Desarrollador Full Stack enfocado en crear aplicaciones web
+Desarrollador **Full Stack** enfocado en crear aplicaciones web  
 **modernas, escalables y mantenibles.**
 
 <br>
 
 <a href="https://cv2025.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
+
 <a href="https://github.com/Sergiovl25">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -36,14 +38,12 @@ const sergio = {
     "CSS3",
     "JavaScript",
     "Bootstrap",
-    "Tailwind CSS",
-    "Astro"
+    "Tailwind CSS"
   ],
 
   backend: [
     "PHP",
     "Laravel",
-    "REST APIs",
     "Composer"
   ],
 
@@ -72,29 +72,29 @@ Además del desarrollo de software, cuento con experiencia en **soporte TI, hard
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,astro" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend Skills" />
 
-<br>
+<br><br>
 
-`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Tailwind CSS` · `Astro`
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Tailwind CSS`
 
 <br><br>
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+<img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills" />
 
-<br>
+<br><br>
 
-`PHP` · `Laravel` · `REST APIs` · `Composer`
+`PHP` · `Laravel` · `Composer`
 
 <br><br>
 
 ### 🗄️ Bases de Datos
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Skills" />
 
-<br>
+<br><br>
 
 `MySQL` · `PostgreSQL` · `MariaDB`
 
@@ -106,7 +106,7 @@ Además del desarrollo de software, cuento con experiencia en **soporte TI, hard
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools" />
 
 <br><br>
 
@@ -120,19 +120,20 @@ Además del desarrollo de software, cuento con experiencia en **soporte TI, hard
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎓 Sistema de Gestión Escolar
 
-Sistema web para la administración y gestión de información académica.
+Sistema web orientado a la administración y gestión de información académica.
 
-**Características**
+**Características principales**
 
-* 🧩 Arquitectura modular
-* 🔌 Integración mediante REST APIs
-* 👥 Gestión de usuarios
-* 🎓 Gestión académica
-* 🗄️ Persistencia de información
+- 🧩 Arquitectura modular
+- 👥 Gestión de usuarios
+- 🎓 Gestión académica
+- 🗄️ Persistencia de información
+- 🔄 Integración Frontend ↔ Backend
 
 **Stack**
 
@@ -141,7 +142,7 @@ Sistema web para la administración y gestión de información académica.
 <br>
 
 <a href="https://github.com/Sergiovl25">
-  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
 </a>
 
 </td>
@@ -152,13 +153,13 @@ Sistema web para la administración y gestión de información académica.
 
 Aplicación web orientada al registro y administración de finanzas personales.
 
-**Características**
+**Características principales**
 
-* 💵 Registro de movimientos
-* 📂 Clasificación por categorías
-* 🔄 Operaciones CRUD
-* 📊 Organización de información
-* 🗄️ Persistencia de datos
+- 💵 Registro de ingresos y gastos
+- 📂 Clasificación por categorías
+- 🔄 Operaciones CRUD
+- 📊 Organización de información
+- 🗄️ Persistencia de datos
 
 **Stack**
 
@@ -167,24 +168,13 @@ Aplicación web orientada al registro y administración de finanzas personales.
 <br>
 
 <a href="https://github.com/Sergiovl25">
-  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
 </a>
 
 </td>
+
 </tr>
 </table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiovl25&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiovl25&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -192,17 +182,7 @@ Aplicación web orientada al registro y administración de finanzas personales.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sergiovl25&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiovl25&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Sergiovl25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -212,14 +192,14 @@ Aplicación web orientada al registro y administración de finanzas personales.
 
 <div align="center">
 
-|         Área         | Enfoque                                       |
-| :------------------: | :-------------------------------------------- |
-|    🎨 **Frontend**   | Interfaces modernas y responsivas             |
-|    ⚙️ **Backend**    | Laravel y diseño de REST APIs                 |
-|   🗄️ **Databases**  | MySQL, PostgreSQL y MariaDB                   |
-| 🏗️ **Arquitectura** | Sistemas modulares y mantenibles              |
-|   🔐 **Seguridad**   | Buenas prácticas y protección de aplicaciones |
-|   ⚡ **Performance**  | Optimización de aplicaciones web              |
+| Área | Enfoque |
+|:---:|:---|
+| 🎨 **Frontend** | Interfaces modernas y responsivas |
+| ⚙️ **Backend** | Desarrollo con PHP y Laravel |
+| 🗄️ **Bases de Datos** | MySQL, PostgreSQL y MariaDB |
+| 🏗️ **Arquitectura** | Sistemas modulares y mantenibles |
+| 🔐 **Seguridad** | Buenas prácticas en aplicaciones web |
+| ⚡ **Performance** | Optimización de aplicaciones |
 
 </div>
 
@@ -229,24 +209,29 @@ Aplicación web orientada al registro y administración de finanzas personales.
 
 ```text
 ✓ Construir aplicaciones Full Stack
-✓ Diseñar APIs REST mantenibles
-✓ Mejorar arquitectura de software
+✓ Mejorar la integración Frontend ↔ Backend
+✓ Diseñar sistemas mantenibles
 
 → Profundizar en Laravel
 → Mejorar seguridad de aplicaciones
 → Optimizar rendimiento
 → Desarrollar proyectos de mayor escala
+→ Aplicar mejores prácticas de arquitectura
 ```
 
 ---
 
-# 🐍 Contribuciones
+# 📚 Aprendizaje continuo
 
-<div align="center">
+Actualmente continúo fortaleciendo conocimientos relacionados con:
 
-<img src="https://raw.githubusercontent.com/Sergiovl25/Sergiovl25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+- 🏗️ Arquitectura de aplicaciones web
+- 🔐 Seguridad en aplicaciones
+- ⚡ Optimización y rendimiento
+- 🗄️ Diseño y optimización de bases de datos
+- 🧪 Testing y calidad de software
+- 🚀 Despliegue de aplicaciones
+- 🔧 Buenas prácticas de desarrollo
 
 ---
 
@@ -259,20 +244,20 @@ Aplicación web orientada al registro y administración de finanzas personales.
 <br>
 
 <a href="https://cv2025.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://github.com/Sergiovl25">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
 
-### 💻 Construyendo soluciones, aprendiendo y mejorando constantemente.
+### 💻 Construyendo soluciones y mejorando constantemente.
 
 ⭐ **Gracias por visitar mi perfil**
 
