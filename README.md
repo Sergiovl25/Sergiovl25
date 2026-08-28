@@ -1,151 +1,202 @@
 <div align="center">
 
-# 🌟 ¡Hola, soy Sergio! 👋
+# 👋 Hola, soy Sergio
 
-**Desarrollador Full Stack** | Apasionado por crear soluciones modernas, eficientes y seguras  
-*Especista en integración frontend-backend y sistemas escalables*
+### Full Stack Developer | .NET · C# · JavaScript · SQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white)](https://cv2025.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+Desarrollo aplicaciones web enfocadas en **arquitecturas mantenibles, integración frontend-backend y soluciones escalables**.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://cv2025.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sergiovl25)
 
 </div>
+
+---
 
 ## 👨‍💻 Sobre mí
 
-```javascript
-const sergio = {
-  rol: "Full Stack Developer",
-  enfoque: ["Sistemas modulares", "Soluciones escalables", "Código limpio"],
-  aprendiendo: "Astro, Seguridad avanzada",
-  experiencia: ["Desarrollo web", "Soporte TI", "Hardware & Networking"],
-  ubicación: "🌍 Mundo digital"
-};
+Soy desarrollador **Full Stack** con enfoque en el desarrollo de aplicaciones web, diseño de APIs, bases de datos y arquitectura de software.
+
+Actualmente trabajo principalmente con **C#, .NET y SQL**, complementando el backend con tecnologías modernas de frontend.
+
+Me interesa construir sistemas que sean:
+
+* 🧩 Modulares
+* 📈 Escalables
+* 🔒 Seguros
+* 🧹 Mantenibles
+* ⚡ Eficientes
+
+También cuento con experiencia en **soporte TI, hardware, redes y mantenimiento de equipos**, lo que complementa mi perfil de desarrollo con conocimientos de infraestructura.
+
+---
+
+## 🛠️ Tecnologías
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
+</p>
+
+### Bases de datos
+
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+### Herramientas
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Áreas de interés
+
+```text
+Backend Development
+├── REST APIs
+├── Arquitectura modular
+├── Entity Framework Core
+├── Autenticación y autorización
+├── Manejo de errores
+└── Validación de datos
+
+Frontend Development
+├── Interfaces responsivas
+├── Integración con APIs
+├── JavaScript
+├── Tailwind CSS
+└── Astro
+
+Data
+├── SQL Server
+├── MySQL
+├── Diseño de bases de datos
+└── Optimización de consultas
+
+IT & Infrastructure
+├── Hardware
+├── Networking
+├── Soporte técnico
+└── Mantenimiento de equipos
 ```
 
-- 🧩 Enfocado en arquitecturas modulares y escalables
-- 🔒 Interés en seguridad de sistemas y optimización  
-- 🚀 Experimentando con **Astro** para sitios dinámicos y rápidos
-- 🛠️ Experiencia en IT Support: ensamblaje, cableado, reparación y configuración
+---
+
+## 🚀 Proyectos
+
+### 🎓 Sistema de Gestión Escolar
+
+Sistema administrativo orientado a la gestión de instituciones educativas.
+
+**Características principales:**
+
+* Arquitectura modular
+* Gestión académica
+* Administración de usuarios
+* Persistencia de datos
+* Integración frontend-backend
+* Diseño orientado a crecimiento futuro
+
+**Tecnologías**
+
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Tailwind CSS`
+
+[Ver proyectos →](https://github.com/Sergiovl25)
 
 ---
 
-## 🛠️ Stack Tecnológico
+### 💰 Sistema de Control de Gastos
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+Aplicación orientada al control y administración de finanzas personales.
 
-### **Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity%20Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+**Características principales:**
 
-### **Bases de Datos**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+* Registro de ingresos y gastos
+* Clasificación por categorías
+* Persistencia de información
+* Manejo de operaciones CRUD
+* Arquitectura organizada por responsabilidades
 
-### **Seguridad & DevOps**
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-6C757D?style=flat&logo=ssl&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-6C757D?style=flat&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Tecnologías**
+
+`C#` `.NET` `Entity Framework Core` `SQL`
+
+[Ver proyectos →](https://github.com/Sergiovl25)
 
 ---
 
-## 🚀 Proyectos en Desarrollo
+## 📚 Actualmente
 
-| Proyecto | Descripción | Tech Stack |
-|----------|-------------|-----------|
-| 🎓 **Sistema de Gestión Escolar** | Plataforma administrativa modular para educación | C#, .NET, SQL Server, Tailwind |
-| 💰 **Control de Gastos** | App de gestión financiera personal | C#, Entity Framework, MySQL |
-| 🌐 **Exploración Astro** | Sitios web rápidos y modernos | Astro, JavaScript, CSS |
-| 📂 **Portafolio GitHub** | Mostrando proyectos profesionalmente | HTML, CSS, JavaScript |
+Actualmente continúo profundizando en:
+
+* ⚛️ Desarrollo frontend moderno
+* 🔌 Diseño e integración de APIs REST
+* 🏗️ Arquitectura de aplicaciones
+* 🔐 Seguridad en aplicaciones web
+* ⚡ Optimización y rendimiento
+* 🧪 Testing y calidad de software
+* 🚀 Despliegue de aplicaciones
 
 ---
 
-## ⭐ Proyectos Destacados
+## 📊 GitHub
 
 <div align="center">
 
-### 📌 Sistema de Gestión Escolar
-Proyecto en evolución que me ha permitido mejorar habilidades en:
-- Arquitectura modular
-- Integración frontend-backend
-- Gestión de bases de datos
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sergiovl25&show_icons=true&theme=github_dark&hide_border=true"/>
 
-[🔗 Ver Repositorio](https://github.com/Sergiovl25) | [📖 Documentación](#)
-
----
-
-### 📌 Sistema de Control de Gastos
-Aplicación práctica para aprender:
-- Entity Framework Core
-- Patrones de diseño
-- Optimización de queries SQL
-
-[🔗 Ver Repositorio](https://github.com/Sergiovl25) | [📖 Documentación](#)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiovl25&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribuciones & Experiencia
+## 🎯 Enfoque profesional
 
-- 🛠️ **Desarrollo Backend**: Gestión de errores robusta y validaciones en C#
-- 🌐 **Frontend Responsivo**: Diseños modernos con Tailwind CSS y Bootstrap  
-- 📖 **Documentación**: Guías sobre Entity Framework Core y SQL Server
-- 💻 **Soporte Técnico**: Ensamblaje, mantenimiento preventivo y correctivo
+Mi objetivo es continuar desarrollando experiencia en la construcción de aplicaciones completas, desde el diseño de la base de datos y el desarrollo del backend hasta la integración y desarrollo del frontend.
 
----
-
-## 🎯 Objetivos Actuales
-
-- [ ] Consolidar integración completa **frontend ↔ backend**
-- [ ] Finalizar módulo académico del sistema escolar
-- [ ] Profundizar en seguridad y optimización de sistemas
-- [ ] Expandir experiencia con **Astro** y frameworks modernos
-- [ ] Reflejar crecimiento profesional en portafolio
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergiovl25&theme=nord&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiovl25&layout=compact&theme=nord&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Conecta Conmigo
-
-<div align="center">
-
-**¿Quieres colaborar? ¡Siempre estoy abierto a nuevas oportunidades!**
-
-[💼 LinkedIn](https://linkedin.com) • [🌐 Portafolio](https://cv2025.netlify.app/) • [✉️ Email](mailto:tu@email.com) • [🐦 Twitter](https://twitter.com)
-
-</div>
+Busco aplicar buenas prácticas de desarrollo que permitan crear software **mantenible, escalable y preparado para evolucionar**.
 
 ---
 
 <div align="center">
 
-### ✨ *"Aunque estoy aprendiendo, cada día me esfuerzo por crecer profesionalmente y crear soluciones de valor. ¡Estoy emocionado por colaborar y aprender juntos! 🚀"*
+## 🤝 Contacto
 
-⭐ Si te gustan mis proyectos, no olvides dejar una estrella
+¿Tienes un proyecto, propuesta o quieres colaborar?
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://cv2025.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sergiovl25)
+
+<br>
+
+**Construyendo, aprendiendo y mejorando una línea de código a la vez. 🚀**
 
 </div>
